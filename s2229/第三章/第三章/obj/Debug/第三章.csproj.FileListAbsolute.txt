@@ -1,0 +1,12 @@
+D:\S2 第一本书\第一章\第三章\第三章\bin\Debug\第三章.exe.config
+D:\S2 第一本书\第一章\第三章\第三章\bin\Debug\第三章.exe
+D:\S2 第一本书\第一章\第三章\第三章\bin\Debug\第三章.pdb
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.Form1.resources
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.Properties.Resources.resources
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.exe
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.pdb
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.main.resources
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.time.resources
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.jd1.resources
+D:\S2 第一本书\第一章\第三章\第三章\obj\Debug\第三章.csprojResolveAssemblyReference.cache

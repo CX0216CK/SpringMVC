@@ -1,0 +1,11 @@
+D:\S2 第一本书\第一章\第七章\sj2\bin\Debug\sj2.exe.config
+D:\S2 第一本书\第一章\第七章\sj2\bin\Debug\sj2.exe
+D:\S2 第一本书\第一章\第七章\sj2\bin\Debug\sj2.pdb
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.bian.resources
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.ce.resources
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.Form1.resources
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.Properties.Resources.resources
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.exe
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.pdb
+D:\S2 第一本书\第一章\第七章\sj2\obj\Debug\sj2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TypeA version="1.0">
+	<chaneLName>北京电视台</chaneLName>
+	<tvProgrmTable>
+		<tvprogram>
+			<playTime>2013-9-29 06:02</playTime>
+			<meridien>早间档</meridien>
+			<programName>国际双行动</programName>
+			<path>c:\jjj</path>
+</tvprogram>
+</tvProgrmTable>
+</TypeA>

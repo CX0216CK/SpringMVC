@@ -1,0 +1,5 @@
+D:\S2 第一本书\第一章\第六章\jd1-1\bin\Debug\jd1-1.exe.config
+D:\S2 第一本书\第一章\第六章\jd1-1\bin\Debug\jd1-1.exe
+D:\S2 第一本书\第一章\第六章\jd1-1\bin\Debug\jd1-1.pdb
+D:\S2 第一本书\第一章\第六章\jd1-1\obj\Debug\jd1-1.exe
+D:\S2 第一本书\第一章\第六章\jd1-1\obj\Debug\jd1-1.pdb

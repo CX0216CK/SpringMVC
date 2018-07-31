@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一章", "第一章\第一章.csproj", "{14CE83DD-1D86-4761-9D59-CBF3E5AAAA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jd1", "jd1\jd1.csproj", "{3A92D531-FAA1-47D9-ACB1-806F32AE742F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "第一章2", "第一章2\第一章2.csproj", "{4498C166-42E3-4A43-9177-0D9F2C54231C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CE83DD-1D86-4761-9D59-CBF3E5AAAA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CE83DD-1D86-4761-9D59-CBF3E5AAAA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CE83DD-1D86-4761-9D59-CBF3E5AAAA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CE83DD-1D86-4761-9D59-CBF3E5AAAA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A92D531-FAA1-47D9-ACB1-806F32AE742F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A92D531-FAA1-47D9-ACB1-806F32AE742F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A92D531-FAA1-47D9-ACB1-806F32AE742F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A92D531-FAA1-47D9-ACB1-806F32AE742F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4498C166-42E3-4A43-9177-0D9F2C54231C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4498C166-42E3-4A43-9177-0D9F2C54231C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4498C166-42E3-4A43-9177-0D9F2C54231C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4498C166-42E3-4A43-9177-0D9F2C54231C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

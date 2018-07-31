@@ -1,0 +1,9 @@
+D:\S2 第一本书\第一章\第八章\jd_1\bin\Debug\jd_1.exe.config
+D:\S2 第一本书\第一章\第八章\jd_1\bin\Debug\jd_1.exe
+D:\S2 第一本书\第一章\第八章\jd_1\bin\Debug\jd_1.pdb
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.Form1.resources
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.Properties.Resources.resources
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.exe
+D:\S2 第一本书\第一章\第八章\jd_1\obj\Debug\jd_1.pdb

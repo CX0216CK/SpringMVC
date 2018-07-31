@@ -1,0 +1,6 @@
+D:\S2 第一本书\第一章\第四章\jd1\bin\Debug\jd1.exe.config
+D:\S2 第一本书\第一章\第四章\jd1\obj\Debug\jd1.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第四章\jd1\bin\Debug\jd1.exe
+D:\S2 第一本书\第一章\第四章\jd1\bin\Debug\jd1.pdb
+D:\S2 第一本书\第一章\第四章\jd1\obj\Debug\jd1.exe
+D:\S2 第一本书\第一章\第四章\jd1\obj\Debug\jd1.pdb

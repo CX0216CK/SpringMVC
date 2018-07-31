@@ -1,0 +1,10 @@
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\bin\Debug\刘洋洋.exe.config
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.Form1.resources
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.Form2.resources
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.Properties.Resources.resources
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\bin\Debug\刘洋洋.exe
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\bin\Debug\刘洋洋.pdb
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.exe
+D:\S2 第一本书\第一章\刘洋洋\刘洋洋\obj\Debug\刘洋洋.pdb

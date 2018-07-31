@@ -1,0 +1,8 @@
+D:\S2 第一本书\第一章\第六章\text01\bin\Debug\text01.exe.config
+D:\S2 第一本书\第一章\第六章\text01\bin\Debug\text01.exe
+D:\S2 第一本书\第一章\第六章\text01\bin\Debug\text01.pdb
+D:\S2 第一本书\第一章\第六章\text01\obj\Debug\text01.Form1.resources
+D:\S2 第一本书\第一章\第六章\text01\obj\Debug\text01.Properties.Resources.resources
+D:\S2 第一本书\第一章\第六章\text01\obj\Debug\text01.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第六章\text01\obj\Debug\text01.exe
+D:\S2 第一本书\第一章\第六章\text01\obj\Debug\text01.pdb

@@ -1,0 +1,9 @@
+D:\S2 第一本书\第一章\第九章\sj3\bin\Debug\sj3.exe.config
+D:\S2 第一本书\第一章\第九章\sj3\bin\Debug\sj3.exe
+D:\S2 第一本书\第一章\第九章\sj3\bin\Debug\sj3.pdb
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.Form1.resources
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.Properties.Resources.resources
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.exe
+D:\S2 第一本书\第一章\第九章\sj3\obj\Debug\sj3.pdb

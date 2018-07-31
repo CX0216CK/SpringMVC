@@ -1,0 +1,9 @@
+D:\S2 第一本书\第一章\第五章\体检套餐1\bin\Debug\体检套餐1.exe.config
+D:\S2 第一本书\第一章\第五章\体检套餐1\bin\Debug\体检套餐1.exe
+D:\S2 第一本书\第一章\第五章\体检套餐1\bin\Debug\体检套餐1.pdb
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.Form1.resources
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.Properties.Resources.resources
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.exe
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.pdb
+D:\S2 第一本书\第一章\第五章\体检套餐1\obj\Debug\体检套餐1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\S2 第一本书\第一章\第六章\text12\bin\Debug\text12.exe.config
+D:\S2 第一本书\第一章\第六章\text12\bin\Debug\text12.exe
+D:\S2 第一本书\第一章\第六章\text12\bin\Debug\text12.pdb
+D:\S2 第一本书\第一章\第六章\text12\obj\Debug\text12.exe
+D:\S2 第一本书\第一章\第六章\text12\obj\Debug\text12.pdb

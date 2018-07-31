@@ -1,0 +1,6 @@
+D:\S2 第一本书\第一章\第四章\sj2\bin\Debug\sj2.exe.config
+D:\S2 第一本书\第一章\第四章\sj2\bin\Debug\sj2.exe
+D:\S2 第一本书\第一章\第四章\sj2\bin\Debug\sj2.pdb
+D:\S2 第一本书\第一章\第四章\sj2\obj\Debug\sj2.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第四章\sj2\obj\Debug\sj2.exe
+D:\S2 第一本书\第一章\第四章\sj2\obj\Debug\sj2.pdb

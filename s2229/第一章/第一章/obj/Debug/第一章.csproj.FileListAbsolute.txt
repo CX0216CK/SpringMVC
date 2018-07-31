@@ -1,0 +1,11 @@
+D:\S2 第一本书\第一章\第一章\第一章\bin\Debug\第一章.exe.config
+D:\S2 第一本书\第一章\第一章\第一章\bin\Debug\第一章.exe
+D:\S2 第一本书\第一章\第一章\第一章\bin\Debug\第一章.pdb
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.Form1.resources
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.Properties.Resources.resources
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.exe
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.pdb
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.main.resources
+D:\S2 第一本书\第一章\第一章\第一章\obj\Debug\第一章.Register.resources

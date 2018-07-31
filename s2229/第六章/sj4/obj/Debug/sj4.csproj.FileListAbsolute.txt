@@ -1,0 +1,9 @@
+D:\S2 第一本书\第一章\第六章\sj4\bin\Debug\sj4.exe.config
+D:\S2 第一本书\第一章\第六章\sj4\bin\Debug\sj4.exe
+D:\S2 第一本书\第一章\第六章\sj4\bin\Debug\sj4.pdb
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.csprojResolveAssemblyReference.cache
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.Form1.resources
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.Properties.Resources.resources
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.exe
+D:\S2 第一本书\第一章\第六章\sj4\obj\Debug\sj4.pdb

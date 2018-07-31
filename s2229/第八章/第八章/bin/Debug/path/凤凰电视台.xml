@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TypeB version="1.0">
+	<chaneLName>凤凰电视台</chaneLName>
+	<tvProgrmTable>
+		<tvprogram>
+			<playTime>2013-9-29 06:02</playTime>
+			<meridien>凤凰晚间档</meridien>
+			<programName>国际双行动</programName>
+			<path>c:\hjkjj</path>
+</tvprogram>
+</tvProgrmTable>
+</TypeB>

@@ -1,0 +1,9 @@
+D:\S2 第一本书\第一章\text\listview\bin\Debug\listview.exe.config
+D:\S2 第一本书\第一章\text\listview\bin\Debug\listview.exe
+D:\S2 第一本书\第一章\text\listview\bin\Debug\listview.pdb
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.frmmain.resources
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.Properties.Resources.resources
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.csproj.GenerateResource.Cache
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.exe
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.pdb
+D:\S2 第一本书\第一章\text\listview\obj\Debug\listview.Form2.resources

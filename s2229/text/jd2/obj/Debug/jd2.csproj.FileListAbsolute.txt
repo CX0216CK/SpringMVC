@@ -1,0 +1,6 @@
+D:\S2 第一本书\第一章\text\jd2\bin\Debug\jd2.exe.config
+D:\S2 第一本书\第一章\text\jd2\bin\Debug\jd2.exe
+D:\S2 第一本书\第一章\text\jd2\bin\Debug\jd2.pdb
+D:\S2 第一本书\第一章\text\jd2\obj\Debug\jd2.exe
+D:\S2 第一本书\第一章\text\jd2\obj\Debug\jd2.pdb
+D:\S2 第一本书\第一章\text\jd2\obj\Debug\jd2.csprojResolveAssemblyReference.cache
